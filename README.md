@@ -1,6 +1,6 @@
 ## Installing Lode Runner Mad Monks Revenge on Ubuntu
 
-This set of instructions has been tested on Ubuntu 17.10. Contact timsims1717 (at) gmail (dot) com if you have problems or successfully install Lode Runner on a different distro.
+This set of instructions has been tested on Ubuntu 17.10 and 20.04. Contact timsims1717 (at) gmail (dot) com if you have problems or successfully install Lode Runner on a different distro.
 
 install wine
 
