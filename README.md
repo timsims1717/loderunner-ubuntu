@@ -5,7 +5,9 @@ This set of instructions has been tested on Ubuntu 17.10. Contact timsims1717 (a
 install wine
 
 `sudo apt install wine64`
+
 `sudo dpkg --add-architecture i386`
+
 `wine --version` to ensure the install was successful
 
 wine is set to emulate 64 bit operating systems. We need 32 bits for Lode Runner
